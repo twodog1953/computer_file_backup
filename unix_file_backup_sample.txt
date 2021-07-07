@@ -1,0 +1,4 @@
+# start the backup
+
+rsync -avz --log-file=mylogfile.txt BACKUP-PATH STORE-PATH
+rsync -avh BACKUP-PATH STORE-PATH --delete
