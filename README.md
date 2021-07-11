@@ -5,5 +5,5 @@ Just change the BACKUP-PATH into the path of the directory you want to backup, a
 
 You can use it by executing the file in the terminal window. 
 
-By stofzuiger
+By twodog
 2021.7.7
